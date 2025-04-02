@@ -1,9 +1,4 @@
 import React from "react";
-import swaraat from "../assets/swaraat.jpeg";
-import aditya from "../assets/aditya.png";
-import nabeel from "../assets/nabeel.png";
-import syed from "../assets/syed.png";
-import Button from "./Button";
 
 function About() {
 	return (
